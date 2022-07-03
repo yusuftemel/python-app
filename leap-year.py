@@ -11,4 +11,10 @@ def CheckLeap(Year):
 # Taking an input year from user  
 Year = int(input("Enter the number: "))  
 # Printing result  
-CheckLeap(Year)  
+CheckLeap(Year) 
+
+# Celsius u Fahrenat'e çevirme.
+a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
+b = a*9/5+32
+
+print(b)
