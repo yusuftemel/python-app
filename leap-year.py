@@ -11,4 +11,4 @@ def CheckLeap(Year):
 # Taking an input year from user  
 Year = int(input("Enter the number: "))  
 # Printing result  
-CheckLeap(Year)  
+CheckLeap(yıl)  
