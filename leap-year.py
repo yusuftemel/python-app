@@ -12,3 +12,5 @@ def CheckLeap(Year):
 Year = int(input("Enter the number: "))  
 # Printing result  
 CheckLeap(Year) i 
+
+# kodun üzerine komut satırı eklendi
