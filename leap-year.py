@@ -13,7 +13,7 @@ def CheckLeap(Year):
 Year = int(input("Enter the number: "))  
 # Printing result  
 
-CheckLeap(yıl)  
+CheckLeap(Year)  
+# this commit also added via using linux-terminal
 
-CheckLeap(Year) i 
 
