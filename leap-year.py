@@ -10,7 +10,7 @@ def CheckLeap(Year):
   else:  
     print ("Given Year is not a leap Year Cooper")  
 # Taking an input year from user  
-Year = int(input("Enter the number: "))  
+Year = int(input("Enter the Thomas number: "))  
 # Printing result  
 
 CheckLeap(Year) 
