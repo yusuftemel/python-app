@@ -1,7 +1,7 @@
 # Default function to implement conditions to check leap year  
 def CheckLeap(Year):  
   # Checking if the given year is leap year  
-  if((Year % 400 == 0) or  
+  if((Year % 400 == 0) or  # sorgu yapıldı
      (Year % 100 != 0) and  
      (Year % 4 == 0)):   
     print("Given Year is a leap Year")  #  Buradaki ;  işareti kaldırıldı. ikin cidenen  
@@ -11,4 +11,4 @@ def CheckLeap(Year):
 # Taking an input year from user  
 Year = int(input("Enter the number: "))  
 # Printing result  
-CheckLeap(Year)  # " CheckLeap(Year) i " şeklinde olan ve SyntaxError veren code düzeltildi.
+CheckLeap(Year) i 
