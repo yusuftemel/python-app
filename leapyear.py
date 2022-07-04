@@ -1,1 +1,0 @@
-ekleme yaptım
