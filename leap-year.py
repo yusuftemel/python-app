@@ -21,3 +21,13 @@ b = a*9/5+32
 
 print(b)
 print("Hello Cohort-12")
+
+
+
+#ejwrjhwerbwerbwer
+
+
+import numpy
+
+
+
